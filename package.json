@@ -1,0 +1,8 @@
+{
+  "name": "engineering-continuity-graph",
+  "private": true,
+  "description": "Local engineering-memory hooks. The pre-commit script always exits 0.",
+  "scripts": {
+    "precommit": "node scripts/hook.js"
+  }
+}

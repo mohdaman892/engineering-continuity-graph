@@ -1,0 +1,6 @@
+{
+  "hook": "pre-commit",
+  "command": "node scripts/hook.js",
+  "failOnError": false,
+  "note": "The hook never fails the commit and never blocks the prompt."
+}

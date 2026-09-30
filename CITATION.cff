@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: Engineering Continuity Graph
+type: software
+authors:
+  - family-names: Aman
+    given-names: Mohd
+    email: mohdaman892@gmail.com
+version: 0.1.0
+date-released: 2026-09-30
+license: Apache-2.0
+repository-code: https://github.com/mohdaman892/engineering-continuity-graph
+url: https://github.com/mohdaman892/engineering-continuity-graph
